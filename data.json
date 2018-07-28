@@ -1,0 +1,48 @@
+{
+	"details":{
+		"name":"mahi",
+		"image":"image9.jpg",
+		"phone":"2729444412",
+		"email":"mahesh@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.tech",
+			"college":"MIC COLLEGE OF TECHNOLOGY",
+			"BRANCH":"COMPUTER SCIENCE",
+			"percentage":"80%"
+		},
+		{
+			"course":"intermediate(mpc)",
+			"college":"vikas junior college",
+			"percentage":"93%"
+		},
+		{
+			"course":"ssc",
+			"college":"geethanjali high school",
+			"percentage":"88%"
+		}
+
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				"python","c","c++","java"
+			]	
+		},
+		{
+			"title":"operating sysyems",
+			"output":[
+				"windows","LINUX","MAC"
+
+			]
+			
+		}
+
+
+	],
+	"career":{
+		"co":"to achive my goals.become a software engineering.coder in python and c programming languages.buy a mercedes-benz S class"
+	}
+}
